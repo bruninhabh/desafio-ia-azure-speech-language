@@ -15,7 +15,7 @@ Este projeto faz parte do desafio da plataforma DIO, com o objetivo de aplicar n
 - Microsoft Azure Language Studio  
 - Git e GitHub  
 - Markdown  
-- VS Code (opcional)
+
 
 ## 📌 Etapas Realizadas
 
@@ -31,11 +31,7 @@ Este projeto faz parte do desafio da plataforma DIO, com o objetivo de aplicar n
 
 3. **Documentação da Jornada**  
    - Anotei insights, dificuldades e aprendizados durante o uso dos serviços.
-   - Organizei capturas de tela na pasta `/images` como apoio visual.
 
-## 📸 Imagens
-
-As imagens relevantes do laboratório estão disponíveis na pasta `/images`.
 
 ## 💡 Conclusão
 
