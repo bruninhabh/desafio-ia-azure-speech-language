@@ -41,4 +41,4 @@ Esse desafio foi essencial para aprofundar meus conhecimentos em IA aplicada à 
 
 🧩 Repositório criado com fins educativos.  
 🚀 Projeto em constante evolução.  
-📚 Feito com dedicação por [Bruna Rezende].
+📚 Feito com dedicação por Bruna Rezende
